@@ -5,3 +5,4 @@ langdetect
 python-dotenv
 pyttsx3
 SpeechRecognition
+conda install pyaudio
